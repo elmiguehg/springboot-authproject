@@ -1,16 +1,16 @@
 # springboot-authproject
 
-## Overview
+## Descripción general
 
-This project showcases the implementation of a JWT Authentication feature in an Spring Boot application.
+Implementación de una función de autenticación JWT en una aplicación Spring Boot.
 
-Technologies used:
+Tecnologías utilizadas:
   - Spring Boot 3
   - Spring Security 6
   - jsonwebtoken
 
 
-## Installation
+## Instalación
 
 Follow these steps to install and run the project:
 
